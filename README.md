@@ -13,3 +13,5 @@ try lagi le
 try se lagi
 do some hotifx.
 hotfix lagi!
+
+readme update
